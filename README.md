@@ -1,10 +1,11 @@
-# Business Site
+Room Theory is a fictional interior design platform that helps users transform ideas and inspiration into realistic 3D room designs. The website presents the company's services, highlights key features, and includes a sign-up form for new users.
 
-Replace this readme with your own information about the project. You can include things like:
+Process and approach
+I started by planning the layout and content structure before building the website with HTML and CSS. The project was designed as a responsive landing page with a focus on clean visual hierarchy, modern UI patterns, and a cohesive color palette inspired by interior design.
+Key techniques and tools used include: -Semantic HTML5 structure -CSS Flexbox for layout and alignment -Responsive design using media queries -Google Fonts for typography -CSS hover effects and transitions for interactivity -Custom color palette and imagery to establish the brand identity
+Throughout the project I iteratively refined spacing, typography, image placement, and visual balance to improve the overall user experience.
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+Future improvements
+If I had more time, I would: -Add JavaScript interactions and animations -Create a fully functional sign-up and login system -Improve accessibility following WCAG guidelines -Add additional pages such as pricing, gallery, and user testimonials -Further optimize the site for mobile devices -Introduce dark mode and more advanced design features
+This project helped me practice responsive web design, layout techniques with Flexbox, and the process of turning a visual concept into a complete landing page.
 
-## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
