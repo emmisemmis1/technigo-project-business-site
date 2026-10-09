@@ -9,3 +9,4 @@ Future improvements
 If I had more time, I would: -Add JavaScript interactions and animations -Create a fully functional sign-up and login system -Improve accessibility following WCAG guidelines -Add additional pages such as pricing, gallery, and user testimonials -Further optimize the site for mobile devices -Introduce dark mode and more advanced design features
 This project helped me practice responsive web design, layout techniques with Flexbox, and the process of turning a visual concept into a complete landing page.
 
+https://technigo-project-business-site-1or.pages.dev/
